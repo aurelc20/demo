@@ -1,0 +1,12 @@
+{
+    "name": "user/demo",
+    "description": "website project",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
